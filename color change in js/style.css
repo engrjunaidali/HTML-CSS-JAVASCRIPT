@@ -1,0 +1,33 @@
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+.box{
+    height: 100px;
+    line-height: 100px;
+    width: 100px;
+}
+#box1{
+    background-color: rgb(134, 37, 37);
+    color: white;
+}
+#box2{
+    background-color: rgb(221, 99, 18);
+    color: white;
+}
+#box3{
+    background-color: rgb(31, 28, 187);
+    color: white;
+}
+.test_box{
+    background-color: blueviolet;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
